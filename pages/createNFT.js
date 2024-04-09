@@ -3,7 +3,6 @@ import { ethers } from "ethers";
 import { useRouter } from "next/router";
 import Web3Modal from "web3modal";
 import axios from "axios";
-// import fs from "fs";
 import FormData from "form-data";
 
 import { nftaddress, nftmarketaddress, PINATA_JWT } from "../config";
